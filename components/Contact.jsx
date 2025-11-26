@@ -28,7 +28,7 @@ const Contact = () => {
               </div>
               <div>
                 <h2 className='py-2'>Bleriot Wafo</h2>
-                <p>Student der Wirtschaftsinformatik</p>
+                <p>Wirtschaftsinformatiker</p>
                 <p className='py-4'>
                Ich suche spannende Einstiegspositionen in IT- und Digitalprojekten, von Softwareentwicklung über Datenanalyse bis hin zu technischen Support- oder IT-Systemschnittstellen.
                 </p>
