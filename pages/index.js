@@ -10,8 +10,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Bleriot Wafo | wirtschaftsinformatiker Student</title>
-        <meta name="description" content="ich Student der Wirtschaftsinformatik und begeistere mich für neue Technologien und Programmierung.  " />
+        <title>Bleriot Wafo | wirtschaftsinformatiker</title>
+        <meta name="description" content="ich bin Student Wirtschaftsinformatik-Absolvent und begeistere mich für neue Technologien und Programmierung.  " />
         <link rel="icon" href="/fav.png" />
       </Head>
     <Main />
