@@ -13,7 +13,7 @@ const About = () => {
           </p>
           <h2 className='py-4'>Wer bin ich?</h2>
           <p className='py-2 text-gray-600'>
-            Ich bin 25 Jahre alt,Student in Fachrichtung Wirtschaftsinformatik an der 
+            Ich bin 27 Jahre alt,Wirtschaftsinformatik-Absolvent der 
             Westfälische Hochschule Gelsenkirchen und versuche mich auf
              die Entwicklung von responsive 
             Front-End-UI-Anwendungen zu eignen, die mit APIs und anderen 
