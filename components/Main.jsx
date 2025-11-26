@@ -15,7 +15,7 @@ const Main = () => {
           <h1 className='py-4 text-gray-700'>
             Hi, Ich bin <span className='text-[#5651e5]'> Bleriot </span>
           </h1>
-          <h1 className='py-2 text-gray-700'>ein Student der Wirtschaftsinformatik</h1>
+          <h1 className='py-2 text-gray-700'>Wirtschaftsinformatik-Absolvent</h1>
           <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
             ich begeistere mich für neue Technologien und Programmierung.
             und verfüge über verschiedene außerschulische Fähigkeiten und auch über soziale Kompetenzen.
