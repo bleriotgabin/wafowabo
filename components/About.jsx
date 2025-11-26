@@ -15,19 +15,13 @@ const About = () => {
           <p className='py-2 text-gray-600'>
             Ich bin 27 Jahre alt und Wirtschaftsinformatik-Absolvent der Westfälischen Hochschule Gelsenkirchen. In meinem Studium und meinen Projekten beschäftigte ich mich mit digitalen Geschäftsprozessen, Datenanalyse, IT-Systemen, Webtechnologien und grundlegenden Themen der IT-Sicherheit.
 
-Ich arbeite gerne an Schnittstellen zwischen Technik und Organisation – dort, wo Prozesse optimiert, Daten ausgewertet oder digitale Lösungen entwickelt werden müssen. Durch verschiedene Projekte und Werkstudententätigkeiten sammelte ich praktische Erfahrung in Webentwicklung, Datenbanken, Visualisierungen, API-Integration sowie im Umgang mit modernen Technologien.
+Ich arbeite gerne an Schnittstellen zwischen Technik und Organisation,dort, wo Prozesse optimiert, Daten ausgewertet oder digitale Lösungen entwickelt werden müssen. Durch verschiedene Projekte und Werkstudententätigkeiten sammelte ich praktische Erfahrung in Webentwicklung, Datenbanken, Visualisierungen, API-Integration sowie im Umgang mit modernen Technologien.
 
 Neben technischen Themen interessiere ich mich stark für Digitalisierung, Prozessoptimierung, Projektarbeit und die Einführung moderner IT-Lösungen in Unternehmen.
-Ehrenamtlich leitete ich außerdem einen Informatikkurs, in dem ich Grundlagen der Programmierung und IT-Basiswissen vermittelte.
+Ehrenamtlich leitete ich außerdem einen Informatikkurs, in dem ich IT-Basiswissen vermittelte.
           </p>
           <p className='py-2 text-gray-600'>
-            Ich begann 2020 mit der Webentwicklung und verwaltete mehrere 
-            E-Commerce-Websites auf CMS-Plattformen wie WordPress, 
-            BigCommerce und Shopify. Ich habe Erfahrung in der direkten Zusammenarbeit 
-            mit Kunden und in der Entwicklung  bis hin zu implementierten Anwendungen. 
-            In meiner Freizeit betreibe ich ehrenamtlich einen Informatikkurs, wo ich 
-            Grundlagen der Java Programmierung ,Web-Entwicklung und verschiedene 
-            Front-End-Technologien unterrichte.
+           Ich sehe mich als breit aufgestellten Wirtschaftsinformatiker mit sowohl technischem als auch betriebswirtschaftlichem Verständnis, flexibel einsetzbar in Entwicklung, Analyse, IT-Projekten oder digitaler Transformation.
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
