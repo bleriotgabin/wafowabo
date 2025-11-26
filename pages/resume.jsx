@@ -56,30 +56,74 @@ Meine Erfahrung umfasst die Entwicklung moderner Webanwendungen, Datenvisualisie
 Ich arbeite analytisch, strukturiert, lösungsorientiert und bewege mich gerne an Schnittstellen zwischen Technologie, Organisation und Nutzerbedürfnissen.
         </p>
 
-        {/* Skills */}
-        <div className='text-center py-4'>
-          <h5 className='text-center underline text-[18px] py-2'>Skills</h5>
-          <p className='py-2'>
-            <span className='font-bold'>Technical Skills</span>
-            <span className='px-2'>|</span>Front-End Web Developer
-            <span className='px-2'>|</span> HTML
-            <span className='px-2'>|</span>CSS
-            <span className='px-2'>|</span>Javascript
-            <span className='px-2'>|</span>React
-            <span className='px-2'>|</span>Next JS
-            <span className='px-2'>|</span>SQL
-            <span className='px-2'>|</span>NoSQL
-            <span className='px-2'>|</span>Redux
-            <span className='px-2'>|</span>Tailwind
-            <span className='px-2'>|</span> Firebase
-            <span className='px-2'>|</span> RESTAPI
-            <span className='px-2'>|</span> Java
-          </p>
-          <p className='py-2'>
-            <span className='font-bold'>agiles Projektmanagement</span>
-            <span className='px-2'>|</span>mit Scrum(Anwendung in Jira und Confluence)
-          </p>
-        </div>
+{/* Skills */}
+<div className='text-center py-4'>
+  <h5 className='text-center underline text-[18px] py-2'>Skills</h5>
+
+  {/* Technologien & Entwicklung */}
+  <p className='py-2'>
+    <span className='font-bold'>Technologien & Entwicklung</span>
+    <span className='px-2'>|</span>JavaScript
+    <span className='px-2'>|</span>TypeScript
+    <span className='px-2'>|</span>HTML
+    <span className='px-2'>|</span>CSS
+    <span className='px-2'>|</span>Vue.js
+    <span className='px-2'>|</span>React
+    <span className='px-2'>|</span>Next.js
+    <span className='px-2'>|</span>Node.js
+    <span className='px-2'>|</span>Laravel
+    <span className='px-2'>|</span>Express.js
+    <span className='px-2'>|</span>REST-APIs
+    <span className='px-2'>|</span>TailwindCSS
+  </p>
+
+  {/* Daten & Datenbanken */}
+  <p className='py-2'>
+    <span className='font-bold'>Daten & Datenbanken</span>
+    <span className='px-2'>|</span>SQL (MySQL, PostgreSQL)
+    <span className='px-2'>|</span>NoSQL (MongoDB)
+    <span className='px-2'>|</span>Datenmodellierung
+    <span className='px-2'>|</span>Datenanalyse (Grundlagen)
+    <span className='px-2'>|</span>D3.js Visualisierung
+  </p>
+
+  {/* IT-Systeme & Infrastruktur */}
+  <p className='py-2'>
+    <span className='font-bold'>IT-Systeme & Infrastruktur</span>
+    <span className='px-2'>|</span>Docker
+    <span className='px-2'>|</span>Linux-Grundlagen
+    <span className='px-2'>|</span>Git & GitHub
+    <span className='px-2'>|</span>DevOps-Basics (Deployment, Vercel)
+  </p>
+
+  {/* IT-Sicherheit */}
+  <p className='py-2'>
+    <span className='font-bold'>IT-Sicherheit (Grundlagen)</span>
+    <span className='px-2'>|</span>OWASP Basics
+    <span className='px-2'>|</span>ZAP Scanner
+    <span className='px-2'>|</span>Nikto Scanner
+    <span className='px-2'>|</span>Sicherheitsbewusstsein in Webprojekten
+  </p>
+
+  {/* Digitale Prozesse & Business */}
+  <p className='py-2'>
+    <span className='font-bold'>Digitale Prozesse & Business</span>
+    <span className='px-2'>|</span>Geschäftsprozessanalyse
+    <span className='px-2'>|</span>Digitalisierung
+    <span className='px-2'>|</span>Anforderungsmanagement
+    <span className='px-2'>|</span>IT-Dokumentation
+    <span className='px-2'>|</span>E-Commerce & CMS (WordPress, Shopify)
+  </p>
+
+  {/* Agile Methoden */}
+  <p className='py-2'>
+    <span className='font-bold'>Agile Methoden</span>
+    <span className='px-2'>|</span>Scrum
+    <span className='px-2'>|</span>Jira & Confluence
+    <span className='px-2'>|</span>Teamarbeit & Kommunikation
+  </p>
+</div>
+
 
         <h5 className='text-center underline text-[18px] py-4'>
          Berufserfahrung
