@@ -49,15 +49,11 @@ const resume = () => {
           </div>
         </div>
         <p>
-          Analytischer, innovativer und motivierter Webentwickler mit 
-          Erfahrung in Kundenservice, Teamführung und organisatorischer 
-          Effektivität in schnelllebigen und herausfordernden Umgebungen. 
-          Versiert darin, Strategien zu entwickeln und optimierte Abläufe 
-          voranzutreiben.
-          Vielfältige analytische Fähigkeiten, Teamzusammenarbeit und Aufbau
-          von Beziehungen. Absolut professionell, mit soliden zwischenmenschlichen
-          Fähigkeiten und komplexen Problemlösungsfähigkeiten.
-          Effektives kritisches Denken, Ideenfindung und Optimierung der Effizienz.
+         Ich kombiniere Kenntnisse in Softwareentwicklung, Datenbanken, digitalen Geschäftsprozessen, IT-Systemen und grundlegender IT-Sicherheit. Durch verschiedene Projekte, Werkstudententätigkeiten und ehrenamtliche Aufgaben habe ich sowohl technische als auch organisatorische Perspektiven kennengelernt.
+
+Meine Erfahrung umfasst die Entwicklung moderner Webanwendungen, Datenvisualisierungen, Analyse- und Digitalisierungsprojekte sowie die Mitarbeit in agilen Teams. Darüber hinaus war ich in Vereinsstrukturen tätig und unterstützte dort Projektkoordination, Kommunikation und operative Abläufe.
+
+Ich arbeite analytisch, strukturiert, lösungsorientiert und bewege mich gerne an Schnittstellen zwischen Technologie, Organisation und Nutzerbedürfnissen.
         </p>
 
         {/* Skills */}
