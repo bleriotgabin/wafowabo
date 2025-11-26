@@ -13,17 +13,12 @@ const About = () => {
           </p>
           <h2 className='py-4'>Wer bin ich?</h2>
           <p className='py-2 text-gray-600'>
-            Ich bin 27 Jahre alt,Wirtschaftsinformatik-Absolvent der 
-            Westfälische Hochschule Gelsenkirchen und versuche mich auf
-             die Entwicklung von responsive 
-            Front-End-UI-Anwendungen zu eignen, die mit APIs und anderen 
-            Back-End-Technologien verbunden sind.  Ich  lerne leidenschaftlich
-            gern neue Technologien und weiß, dass es mehr als einen Weg gibt,
-            eine Aufgabe zu bewältigen. Am meisten beherrsche ich jedoch 
-            Front-End-Anwendungen mit HTML, CSS, Javascript und React zu erstellen,
-            Ich lerne schnell und kann mir bei Bedarf neue Technologien aneignen.
-            Ich glaube, dass ein großartiger Entwickler nicht nur eine bestimmte Sprache
-            verwenden muss,  sondern die Auswahl des besten Werkzeugs für die jeweilige Aufgabe.
+            Ich bin 27 Jahre alt und Wirtschaftsinformatik-Absolvent der Westfälischen Hochschule Gelsenkirchen. In meinem Studium und meinen Projekten beschäftigte ich mich mit digitalen Geschäftsprozessen, Datenanalyse, IT-Systemen, Webtechnologien und grundlegenden Themen der IT-Sicherheit.
+
+Ich arbeite gerne an Schnittstellen zwischen Technik und Organisation – dort, wo Prozesse optimiert, Daten ausgewertet oder digitale Lösungen entwickelt werden müssen. Durch verschiedene Projekte und Werkstudententätigkeiten sammelte ich praktische Erfahrung in Webentwicklung, Datenbanken, Visualisierungen, API-Integration sowie im Umgang mit modernen Technologien.
+
+Neben technischen Themen interessiere ich mich stark für Digitalisierung, Prozessoptimierung, Projektarbeit und die Einführung moderner IT-Lösungen in Unternehmen.
+Ehrenamtlich leitete ich außerdem einen Informatikkurs, in dem ich Grundlagen der Programmierung und IT-Basiswissen vermittelte.
           </p>
           <p className='py-2 text-gray-600'>
             Ich begann 2020 mit der Webentwicklung und verwaltete mehrere 
