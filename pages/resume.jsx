@@ -125,49 +125,104 @@ Ich arbeite analytisch, strukturiert, lösungsorientiert und bewege mich gerne a
 </div>
 
 
-        <h5 className='text-center underline text-[18px] py-4'>
-         Berufserfahrung
-        </h5>
-        {/* Experience */}
-        <div className='py-6'>
-          <p className='italic'>
-            <span className='font-bold italic'>
-            Andersmacher
-            </span>
-            <span className='px-2'>|</span>Gelsenkirchen
-          </p>
-          <p className='py-1 italic'>Werkstudent Front End Web Developer (Oktober 2021 - Oktober 2022)</p>
-          <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
-            <li>
-            Sicherstellung umfassender mobiler responsive UI-Layouts mit
-              Verständnis von HTML, CSS und JavaScript.
-            </li>
-            <li>
-            Arbeitete direkt mit einem vielfältigen Kundenstamm, um zu verstehen und
-            mehrere Technologien und Programme implementieren.
-            </li>
-          </ul>
-        </div>
+<h5 className='text-center underline text-[18px] py-4'>
+  Berufserfahrung
+</h5>
 
+{/* Erfahrung – Werkstudent Softwareentwickler bei Zetcon */}
+<div className='py-6'>
+  <p className='italic'>
+    <span className='font-bold italic'>Zetcon Ingenieur GmbH</span>
+    <span className='px-2'>|</span>Bochum
+  </p>
+  <p className='py-1 italic'>Werkstudent Softwareentwickler (Apr. 2024 – Gegenwärtig)</p>
+  <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
+    <li>Mitarbeit im agilen Entwicklungsteam zur Konzeption und Umsetzung interner Webprozesse.</li>
+    <li>Entwicklung moderner Front- und Back-End-Funktionen mit Vue.js und Laravel.</li>
+    <li>Optimierung bestehender Systeme für interne Abteilungen und Kundenprojekte.</li>
+  </ul>
+</div>
 
-        {/* Personal Experience */}
-        <div className='py-6'>
-          <p className='italic'>
-            <span className='font-bold italic'>
-              VKII Ruhrbezirk e.V.
-            </span>
-            <span className='px-2'>|</span>Dortmund
-          </p>
-          <p className='py-1 italic'>ehrentamtliche Dozent (2020 - heute)</p>
-          <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
-            <li>
-            Im Jahr 2020 habe ich einen Kurs gestartet, der sich darauf konzentriert, 
-            das zu teilen, was ich speziell in der Webentwicklung gelernt habe.
+{/* Erfahrung – Stellvertretender Vorsitzender bei VMDO */}
+<div className='py-6'>
+  <p className='italic'>
+    <span className='font-bold italic'>VMDO e.V.</span>
+    <span className='px-2'>|</span>Dortmund
+  </p>
+  <p className='py-1 italic'>Stellvertretender Vorsitzender (Jan. 2025 – Gegenwärtig)</p>
+  <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
+    <li>Operative und organisatorische Unterstützung der Vereinsführung.</li>
+    <li>Koordination von Projekten, Kommunikation mit Mitgliedern und externen Partnern.</li>
+    <li>Mitarbeit an Integrations- und Bildungsinitiativen sowie Events.</li>
+  </ul>
+</div>
 
-            </li>
-            
-          </ul>
-        </div>
+{/* Erfahrung – Ehrenamtlicher Web Entwickler */}
+<div className='py-6'>
+  <p className='italic'>
+    <span className='font-bold italic'>VKII Ruhrbezirk e.V.</span>
+    <span className='px-2'>|</span>Dortmund
+  </p>
+  <p className='py-1 italic'>Ehrenamtlicher Web Entwickler (März 2021 – Jan. 2025)</p>
+  <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
+    <li>Entwicklung und Weiterentwicklung mehrerer Webprojekte auf Basis von Next.js.</li>
+    <li>Umsetzung neuer Features, technische Verbesserung und Pflege bestehender Anwendungen.</li>
+  </ul>
+</div>
+
+{/* Erfahrung – Front-End Entwickler Fraunhofer */}
+<div className='py-6'>
+  <p className='italic'>
+    <span className='font-bold italic'>Fraunhofer IML</span>
+    <span className='px-2'>|</span>Dortmund
+  </p>
+  <p className='py-1 italic'>Front-End-Entwickler (Aug. 2023 – März 2024)</p>
+  <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
+    <li>Entwicklung eines interaktiven Frontend-Prototyps mit Next.js und D3.js.</li>
+    <li>Visualisierung von Roboterbewegungen mittels dynamischer Diagramme.</li>
+    <li>Unterstützung wissenschaftlicher Analyse- und Forschungsprozesse.</li>
+  </ul>
+</div>
+
+{/* Erfahrung – Tutor VMDO */}
+<div className='py-6'>
+  <p className='italic'>
+    <span className='font-bold italic'>VMDO e.V.</span>
+    <span className='px-2'>|</span>Dortmund
+  </p>
+  <p className='py-1 italic'>Tutor für Informatik (Okt. 2021 – Dez. 2023)</p>
+  <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
+    <li>Durchführung von Workshops für Geflüchtete zu Computergrundlagen und Internetnutzung.</li>
+    <li>Vermittlung einfacher Anwendungen zur Alltagsbewältigung.</li>
+  </ul>
+</div>
+
+{/* Erfahrung – Werkstudent bei Andersmacher */}
+<div className='py-6'>
+  <p className='italic'>
+    <span className='font-bold italic'>Andersmacher</span>
+    <span className='px-2'>|</span>Gelsenkirchen
+  </p>
+  <p className='py-1 italic'>Werkstudent Softwareentwickler (Apr. 2022 – Aug. 2022)</p>
+  <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
+    <li>Erstellung des Lasten- und Pflichtenhefts für eine barrierefreie Mobile-App.</li>
+    <li>Konzeption einer React-Native-Anwendung für Menschen mit Behinderungen.</li>
+    <li>Mitarbeit an fachlicher & technischer Planung bis zur Projektunterbrechung.</li>
+  </ul>
+</div>
+
+{/* Erfahrung – Lagerhelfer */}
+<div className='py-6'>
+  <p className='italic'>
+    <span className='font-bold italic'>Picnic</span>
+    <span className='px-2'>|</span>Herne
+  </p>
+  <p className='py-1 italic'>Lagerhelfer (Jan. 2020 – Apr. 2022)</p>
+  <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
+    <li>Kommissionierung, Verpackung und Vorbereitung von Bestellungen.</li>
+  </ul>
+</div>
+
 
         {/*  */}
         <h5 className='text-center underline text-[18px] py-4'>
