@@ -38,8 +38,8 @@ const resume = () => {
         <div className='text-center py-4 text-xl font-bold uppercase tracking-wider'>
           <div className='hidden sm:block'>
             <p>
-              Autodidakt <span className='px-1'>|</span> Web Entwicklung{' '}
-              <span className='px-1'>|</span> Komplexe Problemlösung
+              Autodidakt <span className='px-1'>|</span> IT-Systeme{' '}
+              <span className='px-1'>|</span> Prozessoptimierung{' '}<span className='px-1'>|</span> Daten & Entwicklung
             </p>
           </div>
           <div className='block sm:hidden'>
