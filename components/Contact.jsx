@@ -30,7 +30,7 @@ const Contact = () => {
                 <h2 className='py-2'>Bleriot Wafo</h2>
                 <p>Student der Wirtschaftsinformatik</p>
                 <p className='py-4'>
-                Ich bin für Werkstudent, Praktikum oder Teilzeitbeschäftigung verfügbar.
+               Ich suche spannende Einstiegspositionen in IT- und Digitalprojekten, von Softwareentwicklung über Datenanalyse bis hin zu technischen Support- oder IT-Systemschnittstellen.
                 </p>
               </div>
               <div>
